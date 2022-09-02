@@ -17,7 +17,7 @@ Software: Python 3.7, Visual Studio Code 1.70.2
 ## Summary
 The analysis of the election show that:
 
--There were 369,711 votes cast.
+-There were ## 369,711 votes cast. ##
 
 The candidates were:
 
@@ -29,13 +29,13 @@ The candidates were:
   
 The candidate results were:
 
-  -Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+  -Charles Casper Stockham received ### 23% ### of the vote and ### 85,213 ### number of votes.
   
-  -Diana DeGetter received 73.8% of the vote and 272,892 number of votes.
+  -Diana DeGetter received ### 73.8% ### of the vote and ### 272,892 ### number of votes. 
   
-  -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  -Raymon Anthony Doane received ### 3.1% ### of the vote and ### 11,606 ### number of votes.
   
 The winner of the election was:
 
-  -*Diana DeGetter* received 73.8% of the vote and 272,892 number of votes.
+ ### -*Diana DeGetter* received 73.8% of the vote and 272,892 number of votes.
 
