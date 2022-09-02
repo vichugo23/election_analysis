@@ -38,4 +38,9 @@ The candidate results were:
 The winner of the election was:
 
  ### -*Diana DeGetter* received 73.8% of the vote and 272,892 number of votes.
+ 
+ ## Challenge Overview
+ 
+ ## Challenge Summary
+ 
 
