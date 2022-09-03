@@ -42,6 +42,7 @@ The winner of the election was:
  
   <img width="696" alt="Screen Shot 2022-09-02 at 8 02 34 PM" src="https://user-images.githubusercontent.com/110702997/188249781-eb499792-f6cb-4753-86f4-04298ba963e4.png">
  
+ - Denver was the county with the highest amount of 306055 votes.
  ## Challenge Overview
  
  ## Challenge Summary
