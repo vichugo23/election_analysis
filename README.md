@@ -17,7 +17,7 @@ Software: Python 3.7, Visual Studio Code 1.70.2
 ## Summary
 The analysis of the election show that:
 
--There were 369,711 votes cast. 
+- There were 369,711 votes cast. 
 
 The candidates were:
 
