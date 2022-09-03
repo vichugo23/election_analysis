@@ -35,9 +35,10 @@ The candidate results were:
   
   -Raymon Anthony Doane received *3.1% of the vote* and *11,606 number of votes.
   
-The winner of the election was:
+The winner of the election was: 
+### Diana DeGetter
 
- ### -*Diana DeGetter* received 73.8% of the vote and 272,892 number of votes.
+ - She received 73.8% of the vote and 272,892 number of votes.
  
   <img width="696" alt="Screen Shot 2022-09-02 at 8 02 34 PM" src="https://user-images.githubusercontent.com/110702997/188249781-eb499792-f6cb-4753-86f4-04298ba963e4.png">
  
