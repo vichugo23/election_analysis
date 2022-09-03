@@ -22,7 +22,6 @@ The analysis of the election show that:
 The candidates were:
 
   -Charles Casper Stockham
-  <img width="696" alt="Screen Shot 2022-09-02 at 8 02 34 PM" src="https://user-images.githubusercontent.com/110702997/188249781-eb499792-f6cb-4753-86f4-04298ba963e4.png">
 
   -Diana DeGetter
   
@@ -39,6 +38,8 @@ The candidate results were:
 The winner of the election was:
 
  ### -*Diana DeGetter* received 73.8% of the vote and 272,892 number of votes.
+ 
+  <img width="696" alt="Screen Shot 2022-09-02 at 8 02 34 PM" src="https://user-images.githubusercontent.com/110702997/188249781-eb499792-f6cb-4753-86f4-04298ba963e4.png">
  
  ## Challenge Overview
  
