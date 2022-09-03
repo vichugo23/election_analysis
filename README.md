@@ -45,5 +45,5 @@ The winner of the election was:
  - Denver was the county with the highest amount of 306055 votes.
  
  ## Challenge Summary
- 
+ As you can clearly see the results of the election this code could be used for to gather information from other elections and present it to you in a manner that is easy to understand.
 
