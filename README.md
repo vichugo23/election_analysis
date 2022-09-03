@@ -1,7 +1,7 @@
 # election_analysis
 
 
-## Project Overview
+## Overview of Election Audit
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional elecection.
 
 1. Calculate the total number of votes cast.
@@ -14,7 +14,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 Data Source: election_results.csv
 Software: Python 3.7, Visual Studio Code 1.70.2
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
 
 - There were 369,711 votes cast. 
@@ -43,7 +43,6 @@ The winner of the election was:
   <img width="696" alt="Screen Shot 2022-09-02 at 8 02 34 PM" src="https://user-images.githubusercontent.com/110702997/188249781-eb499792-f6cb-4753-86f4-04298ba963e4.png">
  
  - Denver was the county with the highest amount of 306055 votes.
- ## Challenge Overview
  
  ## Challenge Summary
  
